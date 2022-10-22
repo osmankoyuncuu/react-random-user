@@ -1,0 +1,15 @@
+button {
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1rem;
+  background-color: rgb(100, 100, 251);
+  font-size: 1.4rem;
+  cursor: grab;
+}
+button:hover {
+  background-color: rgb(176, 136, 241);
+}
+button:active {
+  transform: scale(95%);
+  cursor: grabbing;
+}
