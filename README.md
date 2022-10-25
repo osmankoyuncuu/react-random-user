@@ -10,7 +10,7 @@ Project aims to create a random user.
 
 ## Project Skeleton
 
-    react-task-tracker
+    react-random-user
     |
     ├── public
     │     └── index.html
