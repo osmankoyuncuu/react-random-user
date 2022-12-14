@@ -6,7 +6,7 @@
 
 ## Description
 
-Project aims to create a random user.
+Project aims to create a Random user.
 
 ## Project Skeleton
 
